@@ -1,7 +1,7 @@
 export const Error = () => {
   return (
     <div>
-      <p>Usuário não encontrado!</p>
+      <p>User not found!</p>
     </div>
   );
 };
